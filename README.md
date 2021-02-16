@@ -7,5 +7,6 @@ You should change "your_email" and "your_password" with your email address and p
 For example send_email("test@gmail.com","test123",logs).
 Before running the code, you should allow less secure apps and disable 2-step verification on your gmail account. You can change it on this [site](https://myaccount.google.com/u/1/lesssecureapps?pli=1&pageId=none).
 ## Required Libraries
-pip install pynput
+pip install pynput 
+
 pip install smtplib
